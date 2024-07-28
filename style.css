@@ -275,7 +275,7 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: 1rem;
+  margin-top: initial;
 }
 
 .about-details-container {
@@ -350,6 +350,7 @@ summary::-webkit-details-marker {
 /* EXPERIENCE SECTION */
 
 #experience {
+  margin-bottom: -7rem;
   position: relative;
 }
 
@@ -390,7 +391,7 @@ article .icon {
 
 #projects {
   position: relative;
-  margin-top: 10rem;
+  margin-top:initial;
 }
 
 .color-container {
@@ -624,4 +625,11 @@ footer p {
   .about-pic{
     margin:-60px
   }
+  /* #projects{
+    margin: 5px;
+  }
+  .about-containers{
+    margin: -5rem;
+  } */
+  
 }
