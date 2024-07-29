@@ -31,6 +31,7 @@ a,
 
 nav,
 .nav-links {
+  margin-top: 15px;
   display: flex;
 }
 .nav-links:hover {
@@ -275,7 +276,7 @@ section {
 .about-containers {
   gap: 2rem;
   margin-bottom: 2rem;
-  margin-top: initial;
+  margin-top: 10pxl;
 }
 
 .about-details-container {
