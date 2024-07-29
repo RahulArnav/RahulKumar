@@ -615,7 +615,6 @@ footer p {
 }
 
 
-
 /* ///////////////////////////////////////////////////// */
 
 @media only screen and (max-width: 600px) {
@@ -625,11 +624,8 @@ footer p {
   .about-pic{
     margin:-60px
   }
-  /* #projects{
-    margin: 5px;
+  .section__text__p1{
+    margin-top: 100px;
   }
-  .about-containers{
-    margin: -5rem;
-  } */
   
 }
